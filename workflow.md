@@ -1,6 +1,6 @@
 # Workflow guide
 
-## Check discussion
+## Where we are?
 ---
 - Check discord messages
 - Check sprint taskboard
