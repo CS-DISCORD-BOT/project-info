@@ -9,11 +9,16 @@
 ## Start working
 ---
 - Tag a task
-- Coding?
-    - check repo + branch
-    - code
-    - run lint
-    - run tests
+- Coding
+    - Before you start:
+    ```
+    git checkout dev
+    git pull
+    ```
+    - When you have finished:
+        - lint
+        - tests
+
 - Update documentation?
     - check repo + branch
     - write
