@@ -17,8 +17,11 @@ This project implements a discord bot.
 
 ### Project progress
 [Product backlog] - update link when public
+
 [Sprint backlogs] - update link when public
+
 [Definition of Done] - update link when public
+
 [Working hours] - update link when public
 
 ## Developer links
