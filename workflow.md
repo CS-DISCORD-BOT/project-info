@@ -9,15 +9,18 @@
 ## Start working
 ---
 - Tag a task
+- Look for correct repo
 - Coding
     - Before you start:
-    ```
-    git checkout dev
-    git pull
-    ```
+        - check repo + branch
+        ```
+        git checkout dev
+        git pull
+        ```
+        - code
     - When you have finished:
-        - lint
-        - tests
+        - run lint
+        - run tests
 
 - Update documentation?
     - check repo + branch
@@ -43,6 +46,27 @@
 
 ## Git workflow
 ---
+- Go correct repo folder
+    ```
+    git checkout <branch>
+    git pull
+    ```
+- Work
+    ```
+    git add -p
+    git commit
+    ```
+- Ready to share to team?
+    ```
+    git push
+    ```
+- Ready to staging?
+    ```
+    git checkoout main
+    git pull
+    git merge <branch>
+    git push
+    ```
 
 ## Links
 ---
@@ -51,3 +75,9 @@ Branching, commits, etc. [Git Style Guide](https://github.com/agis/git-style-gui
 Markdown guide [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 Discord bot [file structure](https://discordjs.guide/command-handling/#individual-command-files).
+
+Testing with corde [cordejs](https://github.com/cordejs/corde)
+
+Testing with jest [jestjs.io docs](https://jestjs.io/docs/getting-started)
+
+JavaScript for Programmers [Course](http://nicholasjohnson.com/javascript/javascript-for-programmers/)
