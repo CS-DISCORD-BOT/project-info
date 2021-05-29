@@ -7,7 +7,7 @@ This project implements a discord bot.
 ## Application links
 ---
 [Bot GitHub](https://github.com/CS-DISCORD-BOT/cs-discord-bot)
-[Bot GitHub pages] (https://cs-discord-bot.github.io/project-info/)
+[Bot GitHub pages](https://cs-discord-bot.github.io/project-info/)
 
 ## Documentation
 ---
