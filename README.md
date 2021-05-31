@@ -35,3 +35,4 @@ This project implements a discord bot.
 ### References
 
 ### Programmin help
+[Discord.js Guide](https://discordjs.guide)
