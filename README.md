@@ -35,4 +35,5 @@ This project implements a discord bot.
 ### References
 
 ### Programmin help
-[Discord.js Guide](https://discordjs.guide)
+[Discord.js Guide](https://discordjs.guide/)
+[The Modern JavaScript Tutorial](https://javascript.info/)
