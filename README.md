@@ -30,11 +30,11 @@ This project implements a discord bot.
 ### Workflow
 [Workflow practices](/workflow.md)
 
-### Cource info
+### Course info
 
 ### References
 
-### Programmin help
+### Programming help
 [Discord.js Guide](https://discordjs.guide/)
 
 [The Modern JavaScript Tutorial](https://javascript.info/)
