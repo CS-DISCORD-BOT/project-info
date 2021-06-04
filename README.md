@@ -14,6 +14,7 @@ This project implements a discord bot.
 ---
 
 ### Bot
+[Commands](/commands.md)
 
 ### Project progress
 [Product backlog](https://helsinkifi-my.sharepoint.com/:x:/g/personal/azkantol_ad_helsinki_fi/EcVicYGqMdlEjiGGg6eTTlIBMrOWm9k-SRlgXDEDUI_g5Q?e=oJJL4O&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=ProductBacklog)

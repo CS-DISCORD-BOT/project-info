@@ -1,0 +1,33 @@
+### BotName here
+
+Bot has X commands.
+
+### Info commands
+
+```
+!help       Show the list of the commands.
+```
+
+### Admin/Owner commands
+
+```
+nothing yet
+```
+
+### Teacher commands
+
+```
+!init           Creates course channel given, e.g. _!init ohpe_
+```
+
+### Student commands
+
+```
+!join           Joins you into the course given, e.g. _!join ohpe_
+!leave          Remove you from the course given, e.g. _!leave ohpe_
+!courses        Prints out all the courses
+!intructors     Prints out the instructors of the course. This command is available in most channels
+```
+
+
+
