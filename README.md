@@ -16,13 +16,13 @@ This project implements a discord bot.
 ### Bot
 
 ### Project progress
-[Product backlog] - update link when public
+[Product backlog](https://helsinkifi-my.sharepoint.com/:x:/g/personal/azkantol_ad_helsinki_fi/EcVicYGqMdlEjiGGg6eTTlIBMrOWm9k-SRlgXDEDUI_g5Q?e=oJJL4O&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=ProductBacklog)
 
-[Sprint backlogs] - update link when public
+[Sprint 1 backlogs](https://helsinkifi-my.sharepoint.com/:x:/g/personal/azkantol_ad_helsinki_fi/EcVicYGqMdlEjiGGg6eTTlIBMrOWm9k-SRlgXDEDUI_g5Q?e=oJJL4O&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=Sprint1)
 
-[Definition of Done] - update link when public
+[Definition of Done](https://helsinkifi-my.sharepoint.com/:x:/g/personal/azkantol_ad_helsinki_fi/EcVicYGqMdlEjiGGg6eTTlIBMrOWm9k-SRlgXDEDUI_g5Q?e=oJJL4O&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=DoD)
 
-[Working hours] - update link when public
+[Working hours](https://helsinkifi-my.sharepoint.com/:x:/g/personal/azkantol_ad_helsinki_fi/EcVicYGqMdlEjiGGg6eTTlIBMrOWm9k-SRlgXDEDUI_g5Q?e=oJJL4O&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=Hours)
 
 ## Developer links
 ---
