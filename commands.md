@@ -18,7 +18,7 @@ nothing yet
 
 ```
 !init           Creates course channel given, e.g. !init ohpe
-!remove         Remove course channel given, e.g. !delete ohpe
+!remove         Remove course channel given, e.g. !remove ohpe
 ```
 
 ### Student commands
