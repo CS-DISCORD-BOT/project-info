@@ -40,4 +40,10 @@ This project implements a discord bot.
 ### Programming help
 [Discord.js Guide](https://discordjs.guide/)
 
+[Discord Developer Portal](https://discord.com/developers/docs/intro)
+
 [The Modern JavaScript Tutorial](https://javascript.info/)
+
+[Corde Documentation](https://cordejs.org/docs/)
+
+
