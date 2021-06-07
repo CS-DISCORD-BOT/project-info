@@ -1,6 +1,6 @@
 ### BotName here
 
-Bot has X commands.
+Bot has 7 commands.
 
 ### Info commands
 
@@ -17,8 +17,8 @@ nothing yet
 ### Teacher commands
 
 ```
-!init           Creates course channel given, e.g. !init ohpe
 !remove         Remove course channel given, e.g. !remove ohpe
+!create         Creates course channel given, e.g. !create ohpe
 ```
 
 ### Student commands
