@@ -12,6 +12,7 @@ This project implements a discord bot. Bot´s function is to aid students to fin
 
 [Bot GitHub pages](https://cs-discord-bot.github.io/project-info/)
 
+
 ## Documentation
 
 [User manual (end user)](./documentation/usermanual.md)
@@ -22,13 +23,9 @@ This project implements a discord bot. Bot´s function is to aid students to fin
 
 [CI/CD Pipeline](./documentation/ci-cd-pipeline.md)
 
-<<<<<<< HEAD
 
 ## Instructions
 Clone repository to your computer.
-=======
-[Working hours](https://helsinkifi-my.sharepoint.com/:x:/g/personal/azkantol_ad_helsinki_fi/EcVicYGqMdlEjiGGg6eTTlIBMrOWm9k-SRlgXDEDUI_g5Q?e=oJJL4O&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=Hours)
->>>>>>> 658c9ca36f34f98536acbc29d70e10f7bdec168e
 
 Install all dependencies `npm install`.
 
@@ -46,18 +43,12 @@ Make your own Discord Server. You can find instructions [here](./documentation/d
 Make your own Discord Bot. You can find instructions [here](./documentation/setupmainbot.md).
 
 
-<<<<<<< HEAD
 ### Running bot in command line
 Run one of following commands to start bot:
 ```
 npm run dev (for development vesion)
 npm start (for staging version)
 ```
-=======
-[Course requirements](https://github.com/HY-TKTL/TKT20007-Ohjelmistotuotantoprojekti#kurssin-vaatimuksia) in Finnish
-
-### References
->>>>>>> 658c9ca36f34f98536acbc29d70e10f7bdec168e
 
 
 ### Running corde tests on command line
