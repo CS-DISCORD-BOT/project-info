@@ -15,7 +15,9 @@ This project implements a discord bot. Bot´s function is to aid students to fin
 
 ## Documentation
 
-[User manual (end user)](./documentation/usermanual.md)
+[User manual (student)](./documentation/usermanual-student.md)
+
+[User manual (faculty)](./documentation/usermanual-faculty.md)
 
 [Project progress](./documentation/projectprogress.md)
 
@@ -43,6 +45,7 @@ DISCORD_SERVER_INVITE=your-discord-server-invite
 PORT=your-custom-backend-port
 SESSION_SECRET=server-session-secret
 BACKEND_SERVER_URL=backend-server-url-without-port
+POSTGRES_USERNAME=your-postgres-username (postgres if not changed)
 POSTGRES_PASSWORD=your-postgres-password
 DB_HOST= (only if you are not using PostgreSQL locally)
 
@@ -58,7 +61,7 @@ Make your own Discord Bot. You can find instructions [here](./documentation/setu
 
 Download and install PostgreSQL [here](https://www.postgresql.org/download/)
 
-More help for PostgreSQL (in Finnish) [here](https://hy-tsoha.github.io/materiaali/content/osa-2/index.html#tietokannan-k%C3%A4ytt%C3%A4minen)
+More help for PostgreSQL (in Finnish) [here](https://hy-tsoha.github.io/materiaali/osa-2/#tietokannan-k%C3%A4ytt%C3%A4minen)
 
 Setting up the backend [here](./documentation/OAuth2.md).
 
@@ -69,21 +72,6 @@ npm run dev (for development vesion)
 npm start (for staging version)
 ```
 
-
-### Running corde tests on command line
-
-Add following contents to `.env` file:
-```
-CORDE_BOT_TOKEN=token-of-your-testing-bot-you-just-created
-BOT_TEST_ID=id-of-your-bot-being-tested 
-CHANNEL_ID=channel-for-the-tests
-```
-
-Make your own Discord test Bot. You can find instructions [here](./documentation/setuptestbot.md).
-
-Once you have setup both of your Bots to your server, run following command to run the tests:
-
 ```
 npm run test (run all the tests)
-npm run test:corde (run only the corde tests)
 ```
