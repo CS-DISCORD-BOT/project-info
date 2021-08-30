@@ -4,9 +4,9 @@
 
 [Definition of Done](https://helsinkifi-my.sharepoint.com/:x:/g/personal/azkantol_ad_helsinki_fi/EXotXTenqklFnjJfmTqnzMoB6UpvxAZ4OACvC3MywKMIjQ?e=o8bycQ&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=DoD)
 
-[Sprint 5 backlog](https://helsinkifi-my.sharepoint.com/:x:/g/personal/azkantol_ad_helsinki_fi/EcVicYGqMdlEjiGGg6eTTlIBMrOWm9k-SRlgXDEDUI_g5Q?e=oJJL4O&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=Sprint5)
+[Sprint 7 backlog](https://helsinkifi-my.sharepoint.com/:x:/g/personal/azkantol_ad_helsinki_fi/EXotXTenqklFnjJfmTqnzMoB6UpvxAZ4OACvC3MywKMIjQ?e=o8bycQ&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=Sprint7)
 
-[Sprint 4 backlog](https://helsinkifi-my.sharepoint.com/:x:/g/personal/azkantol_ad_helsinki_fi/EcVicYGqMdlEjiGGg6eTTlIBMrOWm9k-SRlgXDEDUI_g5Q?e=oJJL4O&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=Sprint4)
+[Sprint 6 backlog](https://helsinkifi-my.sharepoint.com/:x:/g/personal/azkantol_ad_helsinki_fi/EXotXTenqklFnjJfmTqnzMoB6UpvxAZ4OACvC3MywKMIjQ?e=o8bycQ&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=Sprint6)
 
 [Sprint 5 backlog](https://helsinkifi-my.sharepoint.com/:x:/g/personal/azkantol_ad_helsinki_fi/EXotXTenqklFnjJfmTqnzMoB6UpvxAZ4OACvC3MywKMIjQ?e=o8bycQ&action=embedview&wdbipreview=true&wdHideSheetTabs=true&Item=Sprint5)
 
